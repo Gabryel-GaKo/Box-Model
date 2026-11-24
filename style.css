@@ -1,0 +1,15 @@
+.boxModelFoto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    color: white;
+    background-image: url(IMG/5425b58f0d1fa461cee7c994b9090bcd.png);
+    background-size: 400px;
+    height: 400px;
+    width: 400px;
+    align-content:end;
+    text-align: center;
+    box-shadow: 10px 5px 10px rgb(0, 0, 0);
+    margin: 0;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    border: 1cm inset white;
+}
